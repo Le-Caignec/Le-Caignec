@@ -31,9 +31,6 @@
  <img width="350" src="/assets/eth.gif" alt="Coding gif" />
 </p>
 
-<br/>
-<br/>
-
 ## Use To Code
 
 ![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
