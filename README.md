@@ -4,9 +4,7 @@
 
 <p align="center"> 
   <samp>
-    <br>
     「 I am a full stack blockchain engineer 」
-    <br>
     <br>
   </samp>
 </p>
