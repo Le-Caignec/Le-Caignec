@@ -1,5 +1,5 @@
 <p align="center">
- <img src="/assets/eth.jpg" alt="Coding img" />
+ <img src="/assets/parisEth.jpg" alt="Coding img" />
 </p>
 
 <p align="center"> 
