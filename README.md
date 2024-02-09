@@ -28,16 +28,9 @@
 <br />
 
 <p>
- <img align="center" width="350" src="/assets/eth.gif" alt="Coding gif" />
+ <img width="350" src="/assets/eth.gif" alt="Coding gif" />
 </p>
 
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
 <br/>
 <br/>
 
