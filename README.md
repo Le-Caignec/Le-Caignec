@@ -27,7 +27,7 @@
 </p>
 <br />
 
-<p>
+<p align="center">
  <img width="350" src="/assets/eth.gif" alt="Coding gif" />
 </p>
 
