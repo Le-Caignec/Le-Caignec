@@ -28,18 +28,13 @@
 </p>
 <br />
 
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
+<!-- About Section -->
+ # About me
+ 
+<p>
+ <img align="right" width="350" src="/assets/eth.gif" alt="Coding gif" />
+</p>
+
 <br/>
 <br/>
 <br/>
